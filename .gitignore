@@ -1,0 +1,7 @@
+# Ignored folders and files #
+###################
+*.env
+*.DS_Store
+*.ipynb_checkpoints/
+*.db
+*.sql
